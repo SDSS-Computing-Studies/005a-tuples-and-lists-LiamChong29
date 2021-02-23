@@ -23,3 +23,16 @@ Enter a word: virus
 
 ['apple', 'worm', 'dollar', 'shingle', 'virus']
 """
+
+inp1=input("Enter a word: ")
+inp2=input("Enter a word: ")
+inp3=input("Enter a word: ")
+inp4=input("Enter a word: ")
+inp5=input("Enter a word: ")
+words=[]
+words.append(inp1)
+words.append(inp2)
+words.append(inp3)
+words.append(inp4)
+words.append(inp5)
+print(words)
